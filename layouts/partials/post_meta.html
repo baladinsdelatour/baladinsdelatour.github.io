@@ -1,0 +1,16 @@
+{{- $scratch := newScratch }}
+
+{{- if not .Date.IsZero -}}
+  {{- $month := index site.Data.months (add (.Date.Format "1" | int) -1) }}
+  {{- $day := .Date.Format "2" }}
+  {{- $year := .Date.Format "2006" }}
+  {{- $dateInFrench := printf "%s %s, %s" $day $month $year }}
+  {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) $dateInFrench)) }}
+{{- end }}
+
+
+
+
+{{- with ($scratch.Get "meta") }}
+{{- delimit . "&nbsp;·&nbsp;" -}}
+{{- end -}}

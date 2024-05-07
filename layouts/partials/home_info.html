@@ -1,0 +1,34 @@
+{{- with site.Params.homeInfoParams }}
+<style>
+/* Define the style for the quote container */
+blockquote.quote {
+    font-style: italic; /* Italicize the quote */
+    margin: 10px 0; /* Some spacing around the quote */
+    padding: 10px; /* Add padding inside the quote */
+    border-left: 2px solid #ccc; /* Vertical line to the left */
+
+    /* Set the quotation marks using the 'quotes' property */
+    quotes: "\201C" "\201D";
+}
+
+/* Style the first line of the quote */
+blockquote.quote:before {
+    content: open-quote; /* Show the opening quotation mark */
+}
+
+/* Style the last line of the quote */
+blockquote.quote:after {
+    content: close-quote; /* Show the closing quotation mark */
+}
+</style>
+<article class="first-entry home-info">
+    <header class="entry-slogan">
+        <h1 style="text-align: center;"> {{ .Title | markdownify }}</h1>
+        <blockquote class="quote">
+            {{ printf "%s %s" .Content .Extended | markdownify }}
+        </blockquote>                 
+    </header>
+    
+</article>
+{{- end -}}
+
