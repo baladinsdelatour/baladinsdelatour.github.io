@@ -38,7 +38,7 @@ petit des comédies basées sur le quiproquo. Nous voulions au moins une
 fois passer par ce genre incontournable avec le maître en la matière qui,
 dans « chat en poche », nous sert une véritable dentelle de situations
 entrelacées.
-ATELIER EVEIL (CP/CE
+
 En chiffre :
  * 3 spectacles
   - Chat en poche de G. Feydeau
