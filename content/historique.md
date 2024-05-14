@@ -7,9 +7,9 @@ url : "/historique/"
 
 Chaque année, Les Baladins de la Tour, des enfants aux adultes, débutants comme confirmés, sont en représentation, généralement à l'Espace Bel Air, 
 mais aussi en extérieur ou dans des lieux publiques. 
-Petit tour d'horizon et historique depuis 2011.
+Petit tour d'horizon et historique depuis 2011 !
 
-### 2022 "L’europe, le grand salon de la clôture !"
+## 2022 "L’europe, le grand salon de la clôture !"
 
 Deux regards, deux façons de parler du drame que vivent les migrants aujourd’hui,
 de parler de nos sociétés qui se barricadent et se protègent, qui oublient
