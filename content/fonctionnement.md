@@ -18,6 +18,8 @@ rythme, la voix, permettant ainsi de s’engager dans des scènes improvisées o
 ou réalistes, mais toujours faisant appel à la créativité et l’imagination des participants.
 Ce format éprouvé depuis plusieurs années nous permet de participer à une véritable création, de s’y engager pleinement et de bénéficier du temps nécessaire pour privilégier la qualité d’un spectacle intégral.
 
+Les Baladins de la Tour ce sont 70 adhérents et acteurs, des partenariats avec l’école de musique ou la médiathèque, des représentations à l’espace Bel Air avec plus de 350 spectacteurs !
+
 ![Annonce 2023/2024](/images/annonce_2024.jpg)
 
 ## Horaires
