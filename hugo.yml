@@ -1,4 +1,4 @@
-baseURL: "http://lesbaladinsdelatour.free.fr/" # "https://localhost:1313/"
+baseURL: "https://baladinsdelatour.github.io/" # "https://localhost:1313/"
 title: Les Baladins de la Tour | Saint Aubin du Cormier
 paginate: 5
 summaryLength: 3000 
