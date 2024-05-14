@@ -41,9 +41,9 @@ entrelacées.
 
 En chiffre :
  * 3 spectacles
-  - Chat en poche de G. Feydeau
-  - Le petit prince d’ Antoine de St Ex.
-  - Hortense, couche toi ! De G. courteline et le bourricot de P. Grippari
+   - Chat en poche de G. Feydeau
+   - Le petit prince d’ Antoine de St Ex.
+   - Hortense, couche toi ! De G. courteline et le bourricot de P. Grippari
  * 3 groupes de 7 acteurs qui se succèdent pour « Chat en poche »
  * 3 belles représentations
  * 3 confinements
