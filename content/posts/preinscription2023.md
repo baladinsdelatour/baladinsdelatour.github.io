@@ -1,7 +1,6 @@
 ---
 title: "Pré-inscription 2023-2024 et calendrier prévisionnel"
 date: 2023-07-08T10:41:53+02:00
-weight: 2
 draft: false
 summary : "Le formulaire de pré-inscription est disponible en ligne: [https://framaforms.org/pre-inscription-2023-2024-les-baladins-de-la-tour-1687245325](https://framaforms.org/pre-inscription-2023-2024-les-baladins-de-la-tour-1687245325)
 Le calendrier prévisionnel des ateliers 2023-2024 est également connu..."
