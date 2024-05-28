@@ -1,7 +1,6 @@
 ---
 title: "Inscription 2023-2024"
 date: 2023-09-01T10:41:53+02:00
-weight: 2
 draft: false
 summary : "La fiche d'inscription est disponible!
 Si vous n'êtes pas pré-inscrit ou vous n'avez pas pris contact, merci d'envoyer un email à lesbaladinsdelatour35@gmail.com 
