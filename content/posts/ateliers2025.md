@@ -12,4 +12,6 @@ Les Ateliers sont ouverts à tous à partir de 6 ans, débutant comme confirmé,
 
 Les ateliers sont articulés autour d’exercices ciblés sur les techniques de bases de l’acteur, le travail du corps, de la voix, de l’espace, du rythme, de la concentration, de l’improvisation, du jeu. Cette dernière notion est le cœur de notre pratique : chacun est amené à prendre conscience de sa part dans ce jeu, comme un jeu d’enfant dans lequel il ne s’agit pas de dominer un adversaire mais plutôt de maintenir ce jeu, ensemble. C’est tendre à « s’ » émerveiller.
 
+Pré-inscriptions et informations à partir de Juillet 2024 sur le site Internet des Baladins de la Tour.
+
 ![Ateliers théâtre 2025](/images/versofly2024.jpg)
