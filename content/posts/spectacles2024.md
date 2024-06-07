@@ -9,6 +9,5 @@ summary : "Les spectacles se dérouleront les 21, 22 et 23 juin 2024 à Bel Air.
 ---
 
 Les spectacles se dérouleront les 21, 22 et 23 juin 2024 à Bel Air. 
-Plus d'information très bientôt !
 
 ![Affiche spectacles 2024](/images/flyer2024.jpg)

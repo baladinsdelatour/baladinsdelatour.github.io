@@ -1,5 +1,5 @@
 ---
-title: "Spectacles 2024"
+title: "Ateliers Théâtre 2024-2025"
 date: 2024-03-04T13:44:55+02:00
 draft: false
 weight: 2
