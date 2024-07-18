@@ -4,10 +4,9 @@ date: 2024-07-08T10:41:53+02:00
 draft: false
 weight: 2
 summary : "Le formulaire de pré-inscription est disponible en ligne: **[https://framaforms.org/pre-inscription-2024-2025-les-baladins-de-la-tour-1687245325](https://framaforms.org/pre-inscription-2024-2025-les-baladins-de-la-tour-1687245325)**
-Le calendrier prévisionnel des ateliers 2024-2025 est également connu...
+Le calendrier prévisionnel des ateliers 2024-2025 est également connu !
 
-![Ateliers théâtre 2025](/images/versofly2024.jpg)
-"
+![Ateliers théâtre 2025](/images/versofly2024.jpg)"
 ---
 
 Le formulaire de pré-inscription est disponible en ligne:  [https://framaforms.org/pre-inscription-2024-2025-les-baladins-de-la-tour-1687245325](https://framaforms.org/pre-inscription-2024-2025-les-baladins-de-la-tour-1687245325)
