@@ -1,20 +1,20 @@
 ---
-title: "Spectacle de clôture 2025"
+title: "Spectacles 2025"
 date: 2025-06-01T10:00:00+02:00
 draft: false
 weight: 2
-summary: "Le spectacle de clôture de l'année 2025 des Baladins de la Tour."
+summary: "Les spectacles de l'année 2025 des Baladins de la Tour, 20 au 22 juin, à l'Espace Bel Air (Saint Aubin du Cormier)"
 ---
 
-# Spectacle de clôture 2025
+# Spectacles 2025
 
 ![Affiche spectacle 2025](/images/insta-theatre-2025.jpg)
 
-## Communiqué de presse
+Du 20 au 22 juin 2025 à Saint Aubin du Cormier, Espace BEL AIR, les Baladins de la tour présenteront trois pièces du répertoire contemporain.
 
-Du 20 au 22 juin 2025 à SAINT AUBIN DU CORMIER
+Trois pièces ou réécritures contemporaines, deux tragédies et un conte à découvrir pour leurs profondes actualités, qui nous parlent de la peur de l'étrangeté, de l'autre, de nous même, qui nous balade entre haine et amour d'autrui, vengeance et sacrifice, courage et vilenie.
 
-les Baladins de la tour présenteront trois pièces du répertoire contemporain
+Dirigé par [Thierry PAVARD](https://pavardthierry.wixsite.com/thierry-pavard) et interprété par les ateliers CM, COLLEGE et ADULTE des BALADINS DE LA TOUR
 
 **POUCET -- Vendredi 20 juin à 18h30 et Samedi 21 juin à 17h**
 
@@ -40,24 +40,7 @@ Je n'en peux plus de les entendre répéter que : « Non ! Ah non, mademoiselle 
 
 Cette famille tue les fascistes. C'est une tradition que tous les membres de la famille suivent depuis plus de soixante-dix ans. Catarina, doit tuer son premier fasciste. La violence a-t-elle sa place dans la lutte pour un monde meilleur ?
 
-Du 20 au 22 juin 2025 à SAINT AUBIN DU CORMIER
 
-les Baladins de la tour présenteront trois pièces du répertoire contemporain
-
-Trois pièces ou réécritures contemporaines, deux tragédies et un conte à découvrir pour leurs profondes actualités, qui nous parlent de la peur de l'étrangeté, de l'autre, de nous même, qui nous balade entre haine et amour d'autrui, vengeance et sacrifice, courage et vilenie.
-
-**
-dirigé par Thierry Pavard
-
-interprété par les ateliers CM, COLLEGE et ADULTE des BALADINS DE LA TOUR
-
-Espace BEL AIR, SAINT AUBIN DU CORMIER
-
-Les intervenants, [Thierry PAVARD](https://pavardthierry.wixsite.com/thierry-pavard),
-
-Site des baladins de la tour : [http://lesbaladinsdelatour.free.fr/](http://lesbaladinsdelatour.free.fr/)
-
----
 
 ## Réservez vos places !
 
