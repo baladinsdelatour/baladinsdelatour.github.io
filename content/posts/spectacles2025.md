@@ -47,11 +47,8 @@ Cette famille tue les fascistes. C'est une tradition que tous les membres de la 
 
 Via la billetterie HelloAsso
 
-https://www.helloasso.com/associations/les-baladins-de-la-tour-35/evenements/spectacle-2025/ 
+<a href="https://www.helloasso.com/associations/les-baladins-de-la-tour-35/evenements/spectacle-2025/" class="btn btn-primary" target="_blank">Réservez vos places !</a>
 
-#### Bouton personnalisé
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/les-baladins-de-la-tour-35/evenements/spectacle-2025/widget-bouton" style="width: 100%; height: 70px; border: none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )"></iframe>
 
-#### Vignette
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/les-baladins-de-la-tour-35/evenements/spectacle-2025/widget-vignette" style="width:550px;border:none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )"></iframe>
 
