@@ -3,10 +3,10 @@ title: "Spectacles 2025"
 date: 2025-06-01T10:00:00+02:00
 draft: false
 weight: 2
-summary: "Les spectacles de l'année 2025 des Baladins de la Tour, 20 au 22 juin, à l'Espace Bel Air (Saint Aubin du Cormier)"
----
+summary: "Les spectacles de l'année 2025 des Baladins de la Tour, 20 au 22 juin, à l'Espace Bel Air (Saint Aubin du Cormier)
 
-# Spectacles 2025
+![Affiche spectacle 2025](/images/insta-theatre-2025.jpg)"
+---
 
 ![Affiche spectacle 2025](/images/insta-theatre-2025.jpg)
 
