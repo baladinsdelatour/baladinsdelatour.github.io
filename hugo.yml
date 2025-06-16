@@ -1,6 +1,6 @@
 baseURL: "https://baladinsdelatour.github.io/" # "https://localhost:1313/"
 title: Les Baladins de la Tour | Saint Aubin du Cormier
-paginate: 5
+paginate: 10
 summaryLength: 3000 
 theme: PaperMod # KeepIt # ananke # PaperMod
 
