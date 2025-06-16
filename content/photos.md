@@ -5,6 +5,25 @@ weight: 30
 url : "/photos/"
 ---
 
+### 2024: SOL AU MONDE
+
+Quelques photos du spectacle de 2024 : https://photos.app.goo.gl/wM8UoBUj9J9JUbSD8
+
+![Spectacle 2024](/images/rectofly2024.jpg)
+
+### 2023: LES SURPRISES DE MARIVAUX
+
+Quelques photos du spectacle de 2023 : https://photos.app.goo.gl/qB9e2kAGeRdCWjbE7
+
+![Spectacle 2023](/images/flyer2023.jpg)
+
+### 2022: "MIGRAAANTS" DE M. VISNIEC ET "AUSSI LOIN QUE LA LUNE" DE S.LEVEY
+
+Quelques photos du spectacle de 2022 : https://photos.app.goo.gl/ChW9KqNVEsEp1bL87
+
+### 2021: "CHAT EN POCHE" DE FEYDEAU ET AUTRES VAUDEVILLES
+
+Quelques photos du spectacle de 2021 : https://photos.app.goo.gl/XBEi9eWQoo5TPMk39
 
 ### JUIN 2020: LES BALADES DE L'ATLAS
 
