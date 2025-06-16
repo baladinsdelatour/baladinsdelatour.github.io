@@ -2,39 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://lesbaladinsdelatour.free.fr/posts/inscriptions2023/</loc>
+    <loc>http://localhost:1313/posts/spectacles2025/</loc>
+    <lastmod>2025-06-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/preinscription2024/</loc>
+    <lastmod>2024-07-08T10:41:53+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/spectacles2024/</loc>
+    <lastmod>2024-04-04T13:44:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ateliers2025/</loc>
+    <lastmod>2024-03-04T13:44:55+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fonctionnement/</loc>
+  </url><url>
+    <loc>http://localhost:1313/historique/</loc>
+  </url><url>
+    <loc>http://localhost:1313/actualite/</loc>
+  </url><url>
+    <loc>http://localhost:1313/photos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/videos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/inscriptions2023/</loc>
     <lastmod>2023-09-01T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/posts/preinscription2023/</loc>
+    <loc>http://localhost:1313/posts/preinscription2023/</loc>
     <lastmod>2023-07-08T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/fonctionnement/</loc>
-  </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/actualite/</loc>
-  </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/photos/</loc>
-  </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/videos/</loc>
-  </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/contact/</loc>
-  </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/</loc>
-    <lastmod>2023-09-01T10:41:53+02:00</lastmod>
-  </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/posts/</loc>
-    <lastmod>2023-09-01T10:41:53+02:00</lastmod>
-  </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/posts/spectacles2023/</loc>
+    <loc>http://localhost:1313/posts/spectacles2023/</loc>
     <lastmod>2023-07-07T13:44:55+02:00</lastmod>
   </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/posts/eveil2022/</loc>
+    <loc>http://localhost:1313/posts/eveil2022/</loc>
     <lastmod>2022-10-08T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/posts/migrants2022/</loc>
+    <loc>http://localhost:1313/posts/migrants2022/</loc>
     <lastmod>2022-10-08T10:41:53+02:00</lastmod>
   </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://lesbaladinsdelatour.free.fr/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

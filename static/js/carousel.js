@@ -42,8 +42,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
       const scrollTo = function(event) {
           event.preventDefault();
-          const targetId = this.getAttribute('href');
-          const targetElement = ele.querySelector(targetId);
+          const slideNum = this.getAttribute('data-slide');
+          const targetElement = ele.querySelector('li:nth-child(' + slideNum + ')');
           if (targetElement) {
               ele.scrollLeft = targetElement.offsetLeft;
           }
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
       prevarrow.addEventListener("mousedown", setInteracted);
       prevarrow.addEventListener("touchstart", setInteracted);
 
-      bullets.forEach(function(bullet) {
+      bullets.forEach(function(bullet, idx) {
         bullet.querySelector('a').addEventListener('click', scrollTo);
         bullet.addEventListener("mousedown", setInteracted);
         bullet.addEventListener("touchstart", setInteracted);

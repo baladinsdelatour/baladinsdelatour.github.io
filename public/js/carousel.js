@@ -42,7 +42,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
       const scrollTo = function(event) {
           event.preventDefault();
-          ele.scrollLeft = ele.querySelector(this.getAttribute('href')).offsetLeft;
+          const targetId = this.getAttribute('href');
+          const targetElement = ele.querySelector(targetId);
+          if (targetElement) {
+              ele.scrollLeft = targetElement.offsetLeft;
+          }
       }
       
       const nextSlide = function() {
