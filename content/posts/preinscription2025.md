@@ -1,6 +1,6 @@
 ---
 title: "Pré-inscription 2025-2026"
-date: 2024-07-26T10:00:00+02:00
+date: 2025-06-23T10:00:00+02:00
 draft: false
 weight: 1
 summary : "Le formulaire de pré-inscription pour la saison 2025-2026 est disponible en ligne."
