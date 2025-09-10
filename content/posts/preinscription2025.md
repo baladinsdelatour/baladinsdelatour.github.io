@@ -7,11 +7,14 @@ summary : "Le formulaire de pré-inscription pour la saison 2025-2026 est dispon
 ---
 
 Le formulaire de pré-inscription pour la saison 2025-2026 est disponible en ligne:  [https://framaforms.org/pre-inscription-2025-2026-les-baladins-de-la-tour-1687245325](https://framaforms.org/pre-inscription-2025-2026-les-baladins-de-la-tour-1687245325)
+*Pour les CMs, mise à jour: ce sera le mercredi de 10h30 à 11h50*
+
+![Ateliers théâtre 2025 CM](/images/cmpub2025.jpeg) 
 
 ## Horaires
 
-* **CM1 (1 à 2 groupes de 9 à 15 - 1h20 env.)**
-  * 🕒 Mercredi 10h–13h
+* **CM (1 à 2 groupes de 9 à 15 - 1h20 env.)**
+  * 🕒 Mercredi 10h30–11h50
 
 * **EVEIL (CP/CE1/CE2 – 9 places max)**
   * 🕒 Mercredi 13h–14h
