@@ -2,7 +2,7 @@
 title: "Pré-inscription 2025-2026"
 date: 2025-06-23T10:00:00+02:00
 draft: false
-weight: 1
+weight: 2
 summary : "Le formulaire de pré-inscription pour la saison 2025-2026 est disponible en ligne. ![Ateliers théâtre 2025](/images/flyer2025-simplified.png)"
 ---
 
