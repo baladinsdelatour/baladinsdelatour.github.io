@@ -3,7 +3,7 @@ title: "Spectacles 2026 : Théâtre de rue"
 date: 2026-06-10T12:00:00+02:00
 draft: false
 weight: 1
-summary: "Du 15 au 21 juin 2026, les Baladins de la Tour se produisent dans la rue, place Alexandre Veillard à Saint-Aubin-du-Cormier : Réfléxions contemporaines, écritures de plateau individuelles et collectives.
+summary: "Théâtre de rue, du 15 au 21 juin 2026, place Veillard !
 ![Affiche théâtre de rue 2026](/images/affiche-theatre-rue-2026.jpg)"
 ---
 
